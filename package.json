@@ -1,0 +1,23 @@
+{
+  "name": "quiaexplicabo",
+  "version": "1.0.0",
+  "description": "Classes and utils for 2FA",
+  "main": "index.js",
+  "scripts": {},
+  "author": "BernitaMoen",
+  "license": "ISC",
+  "dependencies": {
+    "@ts-core/common": "^1.0.161"
+  },
+  "devDependencies": {
+    "gulp-npm-publisher": "1.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MathiasTorp/quiaexplicabo.git"
+  },
+  "keywords": [
+    "maxime"
+  ],
+  "homepage": "https://github.com/MathiasTorp/quiaexplicabo.git"
+}
